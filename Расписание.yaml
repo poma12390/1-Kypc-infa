@@ -1,0 +1,43 @@
+﻿day: 'среда'
+classes:
+- time:
+    start: '13:30'
+    end: '15:00'
+    week: 'Нечетный'
+  location:
+    audience: '206'
+    place: 'Кронверкский пр., д.49, лит.А'
+  lesson:
+    subject: 'Математика'
+    type: 'Пркатика'
+    teacher: 'Синетова Мадина Мансуровна'
+  type:
+    place: 'Очно - дистанционный'
+classes:
+- time:
+    start: '15:20'
+    end: '16:50'
+    week: 'Нечетный'
+  location:
+    audience: '305'
+    place: 'Кронверкский пр., д.49, лит.А
+  lesson:
+    subject: 'Информатика'
+    type: 'Лаб'
+    teacher: 'Ильина Аглая Геннадьевна'
+  type:
+    place: 'Очно - дистанционный'
+ classes:
+- time:
+    start: '17:00'
+    end: '18:30'
+    week: 'Нечетный'
+  location:
+    audience: '305'
+    place: 'Кронверкский пр., д.49, лит.А
+  lesson:
+    subject: 'Информатика'
+    type: 'Лаб'
+    teacher: 'Ильина Аглая Геннадьевна'
+  type:
+    place: 'Очно - дистанционный'
